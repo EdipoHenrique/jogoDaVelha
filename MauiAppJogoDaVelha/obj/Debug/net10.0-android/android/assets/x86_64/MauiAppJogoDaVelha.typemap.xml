@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="MauiAppJogoDaVelha" mvid="16b1a3d17265472a8a96824e64bb9fbc">
+  <java-to-managed>
+    <entry java-name="crc6485efb2ccd7d2e3bc/MainActivity" managed-name="MauiAppJogoDaVelha.MainActivity, MauiAppJogoDaVelha" managed-type-token-id="33554442" />
+    <entry java-name="crc6485efb2ccd7d2e3bc/MainApplication" managed-name="MauiAppJogoDaVelha.MainApplication, MauiAppJogoDaVelha" managed-type-token-id="33554443" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc6485efb2ccd7d2e3bc/MainActivity" managed-name="MauiAppJogoDaVelha.MainActivity, MauiAppJogoDaVelha" managed-type-token-id="33554442" />
+    <entry java-name="crc6485efb2ccd7d2e3bc/MainApplication" managed-name="MauiAppJogoDaVelha.MainApplication, MauiAppJogoDaVelha" managed-type-token-id="33554443" />
+  </managed-to-java>
+</api>
